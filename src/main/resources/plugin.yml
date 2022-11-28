@@ -1,0 +1,5 @@
+name: PluginTemplate
+version: '${version}'
+main: com.github.kaspiandev.plugintemplate.PluginTemplate
+api-version: 1.13
+authors: [ KaspianDev ]
